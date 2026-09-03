@@ -49,5 +49,7 @@
   { "id": "broodje-healthy", "name": "Broodje Healthy", "description": "Lettuce, ham, cheese, tomatoe, cucumber, egg, herbs and mayonaise", "active": false },
   { "id": "broodje-hot-ivo", "name": "Broodje Hot Ivo", "description": "Lettuce, mozzarella, salami, jalapeno, red onion, mayo, chili oil and herbs", "active": false },
   { "id": "fruity-goat", "name": "Fruity Goat", "description": "Lettuce, goatchees, honey, herbs, pijnnuts and pear", "active": false },
-  { "id": "healthy-goat", "name": "Healthy Goat", "description": "Lettuce, goatcheese, tomato, cucumber, egg, herbs and pesto", "active": false }
+  { "id": "healthy-goat", "name": "Healthy Goat", "description": "Lettuce, goatcheese, tomato, cucumber, egg, herbs and pesto", "active": false },
+  { "id": "fruitsalade-medium", "name": "Verse fruitsalade medium", "description": "Vers bereid · dagprijs", "active": true, "kind": "fruit-salad" },
+  { "id": "fruitsalade-groot", "name": "Verse fruitsalade groot", "description": "Vers bereid · dagprijs", "active": true, "kind": "fruit-salad" }
 ]
